@@ -1,0 +1,2 @@
+# Smart Soldier Strap
+ Made a smart Strap to be worn on the wrist which measures vital body parameters ( Heart Rate , Body Temp , SpO2 levels) , it tracks the soldier using GPS . The strap is also equipped with a wifi module , that works as a mesh when it has other strap nodes in vicinity to send data without using any external network( Without using GSM to transmit this data to the main computer), otherwise uses gsm to transmit this information to a cloud server from where it can be retrieved
